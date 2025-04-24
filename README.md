@@ -1,5 +1,7 @@
 # AIML-DSL
 
+# [Browse Project DSL](https://github.enablery.org/shri/diesel/)
+
 ## Transpiler enables Federated Polyglot AI/ML - Low Latency at World-Wide Scale.
 
 One of the requirements of AI/ML online fraud detection is to be able to return scores within 10 to 30ms per transaction, with very tight P99 distributions. The workload is a given fraction of the total transaction traffic (For example, credit-card networks are engineered for 24,000 transactions per sec total).
