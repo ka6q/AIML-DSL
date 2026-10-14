@@ -1,6 +1,6 @@
 # AIML-DSL
 
-# [Browse Project DSL](https://github.enablery.org/shri/diesel/)
+# [Browse Project DSL](https://github.enablery.org/shri/diesel/diesel/)
 
 ## Transpiler enables Federated Polyglot AI/ML - Low Latency at World-Wide Scale.
 
@@ -16,7 +16,9 @@ One traditional workaround is a cop-out which reduces model quality, where real-
 
 Not coincidentally, perpetrators of credit-card fraud3 exploit these very gaps. We need better solutions: better AI/ML platform which can deploy GenAI or traditional ML models to low-latency production and do so with very short update cycles, and with 100% guaranteed correctness.
 
-[1] [The Tail at Scale, Jeffrey Dean, Luiz Andr, Communications of the ACM, 56 (2013), pp. 74-80](https://dl.acm.org/doi/10.1145/2408776.2408794)
+[1] [The Tail at Scale, Jeffrey Dean, Luiz Andr, Communications of the ACM, 56 (2013), pp. 74-80](https://github.enablery.org/shri/diesel/diesel/Tail_at_Scale_-_JeffreyDeanBarroso_~_p74-dean.pdf)
+orig: https://dl.acm.org/doi/10.1145/2408776.2408794
 
-[2] [Visa Announces Generative AI-Powered Fraud Solution to Combat Account Attacks](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.20661.html)
+[2] [Visa Announces Generative AI-Powered Fraud Solution to Combat Account Attacks](https://github.enablery.org/shri/diesel/diesel/Visa_Announces_Generative_AI-Powered_Fraud_Solution_to_Combat_Account_Attacks___Visa.html)
+orig: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.20661.html
 
